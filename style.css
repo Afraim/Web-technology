@@ -45,13 +45,12 @@
     display: grid;
     grid-template-columns: repeat(4, auto);
     gap: 4rem;
-    column-gap: 5rem;
     justify-content: space-around;
     margin-left: 2rem;
 }
 
 .grid-item{
-    width: 4000px;
+    width: 400px;
     height: 600px;
     background-color: rgb(253, 243, 216);
     border-radius: 2rem;
